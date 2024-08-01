@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Expense Tracker README</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 20px;
+		}
+		h1, h2, h3 {
+			color: #333;
+		}
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		li {
+			margin-bottom: 10px;
+		}
+		a {
+			text-decoration: none;
+			color: #337ab7;
+		}
+		a:hover {
+			color: #23527c;
+		}
+	</style>
+</head>
+<body>
+	<h1>Expense Tracker</h1>
+	<p>A simple expense tracking application built with React and Material-UI.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+	<h2>Description</h2>
+	<p>This application allows users to track their expenses by adding, deleting, and viewing transactions. It also provides a balance and expense summary.</p>
 
-## Available Scripts
+	<h2>Features</h2>
+	<ul>
+		<li>Add new transactions with description and amount</li>
+		<li>Delete existing transactions</li>
+		<li>View all transactions</li>
+		<li>Calculate balance and expense summary</li>
+	</ul>
 
-In the project directory, you can run:
+	<h2>Technologies Used</h2>
+	<ul>
+		<li>React</li>
+		<li>Material-UI</li>
+		<li>JavaScript</li>
+		<li>CSS</li>
+	</ul>
 
-### `npm start`
+	<h2>Installation</h2>
+	<p>To run the application, follow these steps:</p>
+	<ol>
+		<li>Clone the repository: <code>git clone https://github.com/your-username/expense-tracker.git</code></li>
+		<li>Install dependencies: <code>npm install</code></li>
+		<li>Start the application: <code>npm start</code></li>
+	</ol>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+	<h2>Usage</h2>
+	<p>Open the application in your web browser: <a href="http://localhost:3000">http://localhost:3000</a></p>
+	<ol>
+		<li>Add a new transaction by filling in the description and amount fields and clicking the "Add Transaction" button.</li>
+		<li>View all transactions by clicking on the "Transaction History" tab.</li>
+		<li>Delete a transaction by clicking the delete icon next to the transaction.</li>
+	</ol>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+	<h2>Contributing</h2>
+	<p>Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.</p>
 
-### `npm test`
+	<h2>License</h2>
+	<p>This project is licensed under the MIT License.</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+	<h2>Acknowledgments</h2>
+	<p>
+		* Material-UI for the UI components
+		* React for the JavaScript library
+	</p>
+</body>
+</html>
