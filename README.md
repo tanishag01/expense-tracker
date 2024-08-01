@@ -1,31 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Expense Tracker README</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			margin: 20px;
-		}
-		h1, h2, h3 {
-			color: #333;
-		}
-		ul {
-			list-style: none;
-			padding: 0;
-			margin: 0;
-		}
-		li {
-			margin-bottom: 10px;
-		}
-		a {
-			text-decoration: none;
-			color: #337ab7;
-		}
-		a:hover {
-			color: #23527c;
-		}
-	</style>
+	 
 </head>
 <body>
 	<h1>Expense Tracker</h1>
