@@ -1,57 +1,41 @@
-<!DOCTYPE html>
-<html>
-<head>
-	 
-</head>
-<body>
-	<h1>Expense Tracker</h1>
-	<p>A simple expense tracking application built with React and Material-UI.</p>
+# Expense Tracker
+A simple expense tracking application built with React and Material-UI.
 
-	<h2>Description</h2>
-	<p>This application allows users to track their expenses by adding, deleting, and viewing transactions. It also provides a balance and expense summary.</p>
+## Description
+This application allows users to track their expenses by adding, deleting, and viewing transactions. It also provides a balance and expense summary.
 
-	<h2>Features</h2>
-	<ul>
-		<li>Add new transactions with description and amount</li>
-		<li>Delete existing transactions</li>
-		<li>View all transactions</li>
-		<li>Calculate balance and expense summary</li>
-	</ul>
+## Features
+* Add new transactions with description and amount
+* Delete existing transactions
+* View all transactions
+* Calculate balance and expense summary
 
-	<h2>Technologies Used</h2>
-	<ul>
-		<li>React</li>
-		<li>Material-UI</li>
-		<li>JavaScript</li>
-		<li>CSS</li>
-	</ul>
+## Technologies Used
+* React
+* Material-UI
+* JavaScript
+* CSS
 
-	<h2>Installation</h2>
-	<p>To run the application, follow these steps:</p>
-	<ol>
-		<li>Clone the repository: <code>git clone https://github.com/your-username/expense-tracker.git</code></li>
-		<li>Install dependencies: <code>npm install</code></li>
-		<li>Start the application: <code>npm start</code></li>
-	</ol>
+## Installation
+To run the application, follow these steps:
 
-	<h2>Usage</h2>
-	<p>Open the application in your web browser: <a href="http://localhost:3000">http://localhost:3000</a></p>
-	<ol>
-		<li>Add a new transaction by filling in the description and amount fields and clicking the "Add Transaction" button.</li>
-		<li>View all transactions by clicking on the "Transaction History" tab.</li>
-		<li>Delete a transaction by clicking the delete icon next to the transaction.</li>
-	</ol>
+1. Clone the repository: `git clone https://github.com/your-username/expense-tracker.git`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
 
-	<h2>Contributing</h2>
-	<p>Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.</p>
+## Usage
+Open the application in your web browser: [http://localhost:3000](http://localhost:3000)
 
-	<h2>License</h2>
-	<p>This project is licensed under the MIT License.</p>
+1. Add a new transaction by filling in the description and amount fields and clicking the "Add Transaction" button.
+2. View all transactions by clicking on the "Transaction History" tab.
+3. Delete a transaction by clicking the delete icon next to the transaction.
 
-	<h2>Acknowledgments</h2>
-	<p>
-		* Material-UI for the UI components
-		* React for the JavaScript library
-	</p>
-</body>
-</html>
+## Contributing
+Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+* Material-UI for the UI components
+* React for the JavaScript library
