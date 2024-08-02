@@ -4,8 +4,8 @@ import { Typography, Box, TextField, Button, styled } from '@mui/material';
 const Container = styled(Box)`
     display: flex;
     flex-direction: column;
-    & > h5, & > div, & > button {
-        margin-top: 30px
+     & > h5, & > div, & > button {
+        margin-top: 20px
     }
 `;
 

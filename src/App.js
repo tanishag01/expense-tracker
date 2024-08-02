@@ -10,14 +10,14 @@ import NewTransaction from './Components/NewTransaction';
 
 const Header = styled(Typography)`
   margin: 10px 0;
-  color: blue;
-  font-size: 36px;
+  color: black;
+  font-size: 36px ;
   text-transform: uppercase;
 `;
 
 const Component = styled(Box)`
   background: #FFF;
-  padding: 10px;
+  padding: 30px;
   border-radius: 20px;
   display: flex;
   width: 800px;
